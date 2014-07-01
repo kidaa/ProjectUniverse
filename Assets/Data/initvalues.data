@@ -1,0 +1,2953 @@
+{
+  "Sectors": [
+    {
+      "ID": 1,
+      "Name": "Alcyone",
+      "Description": "Alcyone Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 2,
+      "Name": "Aldebaran",
+      "Description": "Aldebaran Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 3,
+      "Name": "Algol",
+      "Description": "Algol Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 4,
+      "Name": "Altair",
+      "Description": "Altair Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 5,
+      "Name": "Antares",
+      "Description": "Antares Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 6,
+      "Name": "Arcturus",
+      "Description": "Arcturus Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 7,
+      "Name": "Atlas",
+      "Description": "Atlas Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 8,
+      "Name": "Auriga",
+      "Description": "Auriga Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 9,
+      "Name": "Barnard's Star",
+      "Description": "Barnard's Star Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 10,
+      "Name": "Bellatrix",
+      "Description": "Bellatrix Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 11,
+      "Name": "Betelgeuse",
+      "Description": "Betelgeuse Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 12,
+      "Name": "Celaeno",
+      "Description": "Celaeno Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 13,
+      "Name": "Canopus",
+      "Description": "Canopus Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 14,
+      "Name": "Capella",
+      "Description": "Capella Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 15,
+      "Name": "Castor",
+      "Description": "Castor Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 16,
+      "Name": "Deneb",
+      "Description": "Deneb Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 17,
+      "Name": "Denebola",
+      "Description": "Denebola Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 18,
+      "Name": "Electra",
+      "Description": "Electra Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 19,
+      "Name": "Fomalhaut",
+      "Description": "Fomalhaut Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 20,
+      "Name": "Luyten's Star",
+      "Description": "Luyten's Star Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 21,
+      "Name": "Maia",
+      "Description": "Maia Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 22,
+      "Name": "Merope",
+      "Description": "Merope Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 23,
+      "Name": "Pleione",
+      "Description": "Pleione Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 24,
+      "Name": "Pollux",
+      "Description": "Pollux Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 25,
+      "Name": "Procyon",
+      "Description": "Procyon Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 26,
+      "Name": "Proxima Centauri",
+      "Description": "Proxima Centauri Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 27,
+      "Name": "Ras Alhague",
+      "Description": "Ras Alhague Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 28,
+      "Name": "Regulus",
+      "Description": "Regulus Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 29,
+      "Name": "Rigel",
+      "Description": "Rigel Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 30,
+      "Name": "Sirius",
+      "Description": "Sirius Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 31,
+      "Name": "Sol",
+      "Description": "Sol Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 32,
+      "Name": "Spica",
+      "Description": "Spica Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 33,
+      "Name": "Sterope",
+      "Description": "Sterope Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 34,
+      "Name": "Taygeta",
+      "Description": "Taygeta Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 35,
+      "Name": "Vega",
+      "Description": "Vega Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 36,
+      "Name": "Wolf 359",
+      "Description": "Wolf 359 Sector",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    }
+  ],
+  "Stations": [
+    {
+      "ID": 1,
+      "Sector_ID": 1,
+      "Name": "Kingfisher Station",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 2,
+      "Sector_ID": 2,
+      "Name": "Karambal",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 3,
+      "Sector_ID": 3,
+      "Name": "Montanari Station",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 4,
+      "Sector_ID": 4,
+      "Name": "Aquila Station",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 5,
+      "Sector_ID": 5,
+      "Name": "Scorpius Merchants Platform",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 6,
+      "Sector_ID": 6,
+      "Name": "The Star of Joy",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 7,
+      "Sector_ID": 7,
+      "Name": "7 Tauri Station",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 8,
+      "Sector_ID": 8,
+      "Name": "Charioteer Station",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 9,
+      "Sector_ID": 9,
+      "Name": "Serpentis Transhub",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 10,
+      "Sector_ID": 10,
+      "Name": "Amazon Station",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 11,
+      "Sector_ID": 11,
+      "Name": "Betelgeuse Station",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 12,
+      "Sector_ID": 12,
+      "Name": "Darkstar Shipping Platform",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 13,
+      "Sector_ID": 13,
+      "Name": "Argo Navis",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 14,
+      "Sector_ID": 14,
+      "Name": "Amalthea Military Academy",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 15,
+      "Sector_ID": 15,
+      "Name": "Second Star Station",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 16,
+      "Sector_ID": 16,
+      "Name": "Swan Station",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 17,
+      "Sector_ID": 17,
+      "Name": "Lion's Tail",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 18,
+      "Sector_ID": 18,
+      "Name": "Settler's Lament",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 19,
+      "Sector_ID": 19,
+      "Name": "Fomalhaut Mining Platform",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 20,
+      "Sector_ID": 20,
+      "Name": "Ebbighausen's Share",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 21,
+      "Sector_ID": 21,
+      "Name": "Struve's Folly",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 22,
+      "Sector_ID": 22,
+      "Name": "Extra Nebula Refuling Station",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 23,
+      "Sector_ID": 23,
+      "Name": "Nymph of Kyllene Station",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 24,
+      "Sector_ID": 24,
+      "Name": "Third Star Station",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 25,
+      "Sector_ID": 25,
+      "Name": "Carpenter Station",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 26,
+      "Sector_ID": 26,
+      "Name": "Innes Transhub",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 27,
+      "Sector_ID": 27,
+      "Name": "Heavenly Market",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 28,
+      "Sector_ID": 28,
+      "Name": "Little King",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 29,
+      "Sector_ID": 29,
+      "Name": "Gin-waki Station",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 30,
+      "Sector_ID": 30,
+      "Name": "Dog Star Transhub",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 31,
+      "Sector_ID": 31,
+      "Name": "Earth Prime",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 32,
+      "Sector_ID": 32,
+      "Name": "Novo Para Station",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 33,
+      "Sector_ID": 33,
+      "Name": "Lightning Station",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 34,
+      "Sector_ID": 34,
+      "Name": "Taurus Station",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 35,
+      "Sector_ID": 35,
+      "Name": "Judge of Heaven",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 36,
+      "Sector_ID": 36,
+      "Name": "Wolf's Den",
+      "Description": "",
+      "Faction_ID": 1,
+      "Is_Dirty": true
+    }
+  ],
+  "Shops": [
+    {
+      "ID": 1,
+      "Station_ID": 1,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    },
+    {
+      "ID": 2,
+      "Station_ID": 2,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    },
+    {
+      "ID": 3,
+      "Station_ID": 3,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    },
+    {
+      "ID": 4,
+      "Station_ID": 4,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    },
+    {
+      "ID": 5,
+      "Station_ID": 5,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    },
+    {
+      "ID": 6,
+      "Station_ID": 6,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    },
+    {
+      "ID": 7,
+      "Station_ID": 7,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    },
+    {
+      "ID": 8,
+      "Station_ID": 8,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    },
+    {
+      "ID": 9,
+      "Station_ID": 9,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    },
+    {
+      "ID": 10,
+      "Station_ID": 10,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    },
+    {
+      "ID": 11,
+      "Station_ID": 11,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    },
+    {
+      "ID": 12,
+      "Station_ID": 12,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    },
+    {
+      "ID": 13,
+      "Station_ID": 13,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    },
+    {
+      "ID": 14,
+      "Station_ID": 14,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    },
+    {
+      "ID": 15,
+      "Station_ID": 15,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    },
+    {
+      "ID": 16,
+      "Station_ID": 16,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    },
+    {
+      "ID": 17,
+      "Station_ID": 17,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    },
+    {
+      "ID": 18,
+      "Station_ID": 18,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    },
+    {
+      "ID": 19,
+      "Station_ID": 19,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    },
+    {
+      "ID": 20,
+      "Station_ID": 20,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    },
+    {
+      "ID": 21,
+      "Station_ID": 21,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    },
+    {
+      "ID": 22,
+      "Station_ID": 22,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    },
+    {
+      "ID": 23,
+      "Station_ID": 23,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    },
+    {
+      "ID": 24,
+      "Station_ID": 24,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    },
+    {
+      "ID": 25,
+      "Station_ID": 25,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    },
+    {
+      "ID": 26,
+      "Station_ID": 26,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    },
+    {
+      "ID": 27,
+      "Station_ID": 27,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    },
+    {
+      "ID": 28,
+      "Station_ID": 28,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    },
+    {
+      "ID": 29,
+      "Station_ID": 29,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    },
+    {
+      "ID": 30,
+      "Station_ID": 30,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    },
+    {
+      "ID": 31,
+      "Station_ID": 31,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    },
+    {
+      "ID": 32,
+      "Station_ID": 32,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    },
+    {
+      "ID": 33,
+      "Station_ID": 33,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    },
+    {
+      "ID": 34,
+      "Station_ID": 34,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    },
+    {
+      "ID": 35,
+      "Station_ID": 35,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    },
+    {
+      "ID": 36,
+      "Station_ID": 36,
+      "Name": "Commodity Shop",
+      "Description": "A place that buys and sells stuff.",
+      "Atlas_Avatar": "ShopKeep01",
+      "Is_Dirty": true
+    }
+  ],
+  "Inventories": [
+    {
+      "ID": 1,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 2,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 3,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 4,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 5,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 6,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 7,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 8,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 9,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 10,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 11,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 12,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 13,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 14,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 15,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 16,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 17,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 18,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 19,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 20,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 21,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 22,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 23,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 24,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 25,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 26,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 27,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 28,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 29,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 30,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 31,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 32,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 33,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 34,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 35,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 36,
+      "Entity_Type": 1,
+      "Container_ID": 69,
+      "Capacity": 0,
+      "Is_Dirty": true
+    }
+  ],
+  "Items": [
+    {
+      "ID": 1,
+      "Name": "Iron",
+      "Description": "Iron is a naturally occuring mineral",
+      "Atlas_Avatar": null,
+      "Item_Group": "Material",
+      "Category": "Component",
+      "Subcategory": "Metal",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 2,
+      "Name": "Aluminium",
+      "Description": "Aluminium is a nturally occuring metal.",
+      "Atlas_Avatar": null,
+      "Item_Group": "Material",
+      "Category": "Component",
+      "Subcategory": "Metal",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 3,
+      "Name": "Copper",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Material",
+      "Category": "Component",
+      "Subcategory": "Metal",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 4,
+      "Name": "Lead",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Material",
+      "Category": "Component",
+      "Subcategory": "Metal",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 5,
+      "Name": "Zinc",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Material",
+      "Category": "Component",
+      "Subcategory": "Metal",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 6,
+      "Name": "Nickel",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Material",
+      "Category": "Component",
+      "Subcategory": "Metal",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 7,
+      "Name": "Tin",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Material",
+      "Category": "Component",
+      "Subcategory": "Metal",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 8,
+      "Name": "Gold",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Material",
+      "Category": "Component",
+      "Subcategory": "Metal",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 9,
+      "Name": "Silver",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Material",
+      "Category": "Component",
+      "Subcategory": "Metal",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 10,
+      "Name": "Titanium",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Material",
+      "Category": "Component",
+      "Subcategory": "Metal",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 11,
+      "Name": "Platnum",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Material",
+      "Category": "Component",
+      "Subcategory": "Metal",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 12,
+      "Name": "Mercury",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Material",
+      "Category": "Component",
+      "Subcategory": "Metal",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 13,
+      "Name": "Helium",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Material",
+      "Category": "Component",
+      "Subcategory": "Gas",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 14,
+      "Name": "Hydrogen",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Material",
+      "Category": "Component",
+      "Subcategory": "Gas",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 15,
+      "Name": "Oxygen",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Material",
+      "Category": "Component",
+      "Subcategory": "Gas",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 16,
+      "Name": "Coal",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Material",
+      "Category": "Component",
+      "Subcategory": "Solid",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 17,
+      "Name": "Nitrogen",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Material",
+      "Category": "Component",
+      "Subcategory": "Gas",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 18,
+      "Name": "Magnesium",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Material",
+      "Category": "Component",
+      "Subcategory": "Metal",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 19,
+      "Name": "Silicon",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Material",
+      "Category": "Component",
+      "Subcategory": "Metal",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 20,
+      "Name": "Argon",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Material",
+      "Category": "Component",
+      "Subcategory": "Gas",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 21,
+      "Name": "Water",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Material",
+      "Category": "Component",
+      "Subcategory": "Liquid",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 22,
+      "Name": "Potable Water",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Commodity",
+      "Category": "Food",
+      "Subcategory": "Water",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 23,
+      "Name": "Linen",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Commodity",
+      "Category": "Luxury",
+      "Subcategory": "Clothing",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 24,
+      "Name": "Silk",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Commodity",
+      "Category": "Luxury",
+      "Subcategory": "Clothing",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 25,
+      "Name": "Leather",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Commodity",
+      "Category": "Luxury",
+      "Subcategory": "Clothing",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 26,
+      "Name": "Wheat",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Commodity",
+      "Category": "Plants",
+      "Subcategory": "Food",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 27,
+      "Name": "Construction Blocks",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Commodity",
+      "Category": "Industrial",
+      "Subcategory": "Construction",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 28,
+      "Name": "Wiring",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Commodity",
+      "Category": "Industrial",
+      "Subcategory": "Electronics",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 29,
+      "Name": "Circuit Boards",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Commodity",
+      "Category": "Industrial",
+      "Subcategory": "Electronics",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 30,
+      "Name": "Industrial Equipment",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Commodity",
+      "Category": "Industrial",
+      "Subcategory": "Construction",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 31,
+      "Name": "Furniture",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Commodity",
+      "Category": "Luxury",
+      "Subcategory": "Home",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 32,
+      "Name": "Alcohol",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Material",
+      "Category": "Component",
+      "Subcategory": "Liquid",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 33,
+      "Name": "Musical Instruments",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Commodity",
+      "Category": "Luxury",
+      "Subcategory": "Arts",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 34,
+      "Name": "Medicine",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Commodity",
+      "Category": "Medical",
+      "Subcategory": "Medical",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 35,
+      "Name": "First Aid",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Commodity",
+      "Category": "Medical",
+      "Subcategory": "Medical",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 36,
+      "Name": "Sugar",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Material",
+      "Category": "Food",
+      "Subcategory": "Cooking",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 37,
+      "Name": "Salmon",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Material",
+      "Category": "Food",
+      "Subcategory": "Fish",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 38,
+      "Name": "Milk",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Material",
+      "Category": "Food",
+      "Subcategory": "Dairy",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 39,
+      "Name": "Strawberries",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Material",
+      "Category": "Food",
+      "Subcategory": "Fruit",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 40,
+      "Name": "Corn",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Material",
+      "Category": "Food",
+      "Subcategory": "Vegetables",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 41,
+      "Name": "Ground Vehicles",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Commodity",
+      "Category": "Luxury",
+      "Subcategory": "Vehicles",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 42,
+      "Name": "Air Vehicles",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Commodity",
+      "Category": "Luxury",
+      "Subcategory": "Vehicles",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 43,
+      "Name": "Repair Parts",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Commodity",
+      "Category": "Mechanical",
+      "Subcategory": "Parts",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 44,
+      "Name": "Cows",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Material",
+      "Category": "Livestock",
+      "Subcategory": "Cattle",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 45,
+      "Name": "Chickens",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Material",
+      "Category": "Livestock",
+      "Subcategory": "Poultry",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 46,
+      "Name": "Diamonds",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Commodity",
+      "Category": "Luxury",
+      "Subcategory": "Jewelery",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 47,
+      "Name": "Steel",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Material",
+      "Category": "Component",
+      "Subcategory": "Alloy",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 48,
+      "Name": "Brass",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Material",
+      "Category": "Component",
+      "Subcategory": "Alloy",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 49,
+      "Name": "Bronze",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Material",
+      "Category": "Component",
+      "Subcategory": "Alloy",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 50,
+      "Name": "Petroleum",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Material",
+      "Category": "Component",
+      "Subcategory": "Liquid",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 51,
+      "Name": "Vodka",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Commodity",
+      "Category": "Luxury",
+      "Subcategory": "Spirits",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 52,
+      "Name": "Scotch",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Commodity",
+      "Category": "Luxury",
+      "Subcategory": "Spirits",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 53,
+      "Name": "Wine",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Commodity",
+      "Category": "Luxury",
+      "Subcategory": "Spirits",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 54,
+      "Name": "Grapes",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Commodity",
+      "Category": "Food",
+      "Subcategory": "Fruit",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 55,
+      "Name": "Zirconium",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Material",
+      "Category": "Component",
+      "Subcategory": "Solid",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 56,
+      "Name": "Peashooter X1",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Component",
+      "Category": "Weapons",
+      "Subcategory": "Cannons",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 57,
+      "Name": "Swarm 2 Pack",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Component",
+      "Category": "Weapons",
+      "Subcategory": "Missiles",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 58,
+      "Name": "Shipe Repair Level 1",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Component",
+      "Category": "Ship",
+      "Subcategory": "Engineering",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 59,
+      "Name": "Laser Guidance Lv1",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Component",
+      "Category": "Ship",
+      "Subcategory": "Tactical",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 60,
+      "Name": "Asteroid Sanner Lv1",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Component",
+      "Category": "Ship",
+      "Subcategory": "Science",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 61,
+      "Name": "Evasive Maneuvers Lv1",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Component",
+      "Category": "Ship",
+      "Subcategory": "Helm",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 62,
+      "Name": "Universal Translator Lv1",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Component",
+      "Category": " Ship ",
+      "Subcategory": "Comms",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 63,
+      "Name": "Repel Boarders Lv1",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Component",
+      "Category": "Ship",
+      "Subcategory": "Security",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 64,
+      "Name": "Logistics Lv1",
+      "Description": "Description",
+      "Atlas_Avatar": null,
+      "Item_Group": "Component",
+      "Category": "Ship",
+      "Subcategory": "Admin",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 65,
+      "Name": "Shop_Bin_1",
+      "Description": "A 1 TEU container (50,000lbs/22,680kg)",
+      "Atlas_Avatar": null,
+      "Item_Group": "Component",
+      "Category": "Shop",
+      "Subcategory": "Inventory",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 66,
+      "Name": "Shop_Bin_2",
+      "Description": "A 2 TEU container (100,000 lbs/45,360kg)",
+      "Atlas_Avatar": null,
+      "Item_Group": "Component",
+      "Category": "Shop",
+      "Subcategory": "Inventory",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 67,
+      "Name": "Shop_Bin_3",
+      "Description": "A 3 TEU container (150,000 lbs/68,040 kg)",
+      "Atlas_Avatar": null,
+      "Item_Group": "Component",
+      "Category": "Shop",
+      "Subcategory": "Inventory",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 68,
+      "Name": "Shop_Bin_4",
+      "Description": "A 4 TEU container (200,000 lbs/90,720 kg)",
+      "Atlas_Avatar": null,
+      "Item_Group": "Component",
+      "Category": "Shop",
+      "Subcategory": "Inventory",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 69,
+      "Name": "Shop_Bin_5",
+      "Description": "A 5 TEU container (250,000 lbs/113,400 kg)",
+      "Atlas_Avatar": null,
+      "Item_Group": "Component",
+      "Category": "Shop",
+      "Subcategory": "Inventory",
+      "Rarity": 5,
+      "Weight_Per_Unit": 1,
+      "Base_Cost": 1,
+      "Is_Dirty": true
+    }
+  ],
+  "MetaData": [
+    {
+      "Key": "MaxCapacity",
+      "Description": "How much a container can hold."
+    }
+  ],
+  "Jumpgates": [
+    {
+      "ID": 1,
+      "Sector_ID": 1,
+      "Name": "Alcyone",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 2,
+      "Destination_Gate_ID": 6,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 2,
+      "Sector_ID": 1,
+      "Name": "Alcyone",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 7,
+      "Destination_Gate_ID": 16,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 3,
+      "Sector_ID": 1,
+      "Name": "Alcyone",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 21,
+      "Destination_Gate_ID": 45,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 4,
+      "Sector_ID": 1,
+      "Name": "Alcyone",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 22,
+      "Destination_Gate_ID": 48,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 5,
+      "Sector_ID": 1,
+      "Name": "Alcyone",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 23,
+      "Destination_Gate_ID": 50,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 6,
+      "Sector_ID": 2,
+      "Name": "Aldebaran",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 1,
+      "Destination_Gate_ID": 1,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 7,
+      "Sector_ID": 2,
+      "Name": "Aldebaran",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 8,
+      "Destination_Gate_ID": 17,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 8,
+      "Sector_ID": 2,
+      "Name": "Aldebaran",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 11,
+      "Destination_Gate_ID": 22,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 9,
+      "Sector_ID": 2,
+      "Name": "Aldebaran",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 14,
+      "Destination_Gate_ID": 31,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 10,
+      "Sector_ID": 3,
+      "Name": "Algol",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 14,
+      "Destination_Gate_ID": 32,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 11,
+      "Sector_ID": 4,
+      "Name": "Altair",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 19,
+      "Destination_Gate_ID": 43,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 12,
+      "Sector_ID": 4,
+      "Name": "Altair",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 35,
+      "Destination_Gate_ID": 80,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 13,
+      "Sector_ID": 5,
+      "Name": "Antares",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 32,
+      "Destination_Gate_ID": 74,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 14,
+      "Sector_ID": 6,
+      "Name": "Arcturus",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 17,
+      "Destination_Gate_ID": 38,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 15,
+      "Sector_ID": 6,
+      "Name": "Arcturus",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 27,
+      "Destination_Gate_ID": 60,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 16,
+      "Sector_ID": 7,
+      "Name": "Atlas",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 1,
+      "Destination_Gate_ID": 2,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 17,
+      "Sector_ID": 8,
+      "Name": "Auriga",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 2,
+      "Destination_Gate_ID": 7,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 18,
+      "Sector_ID": 8,
+      "Name": "Auriga",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 14,
+      "Destination_Gate_ID": 33,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 19,
+      "Sector_ID": 9,
+      "Name": "Barnard's Star",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 31,
+      "Destination_Gate_ID": 69,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 20,
+      "Sector_ID": 10,
+      "Name": "Bellatrix",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 11,
+      "Destination_Gate_ID": 23,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 21,
+      "Sector_ID": 10,
+      "Name": "Bellatrix",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 29,
+      "Destination_Gate_ID": 65,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 22,
+      "Sector_ID": 11,
+      "Name": "Betelgeuse",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 2,
+      "Destination_Gate_ID": 8,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 23,
+      "Sector_ID": 11,
+      "Name": "Betelgeuse",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 10,
+      "Destination_Gate_ID": 20,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 24,
+      "Sector_ID": 11,
+      "Name": "Betelgeuse",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 15,
+      "Destination_Gate_ID": 34,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 25,
+      "Sector_ID": 11,
+      "Name": "Betelgeuse",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 24,
+      "Destination_Gate_ID": 51,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 26,
+      "Sector_ID": 11,
+      "Name": "Betelgeuse",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 25,
+      "Destination_Gate_ID": 54,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 27,
+      "Sector_ID": 12,
+      "Name": "Celaeno",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 18,
+      "Destination_Gate_ID": 41,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 28,
+      "Sector_ID": 12,
+      "Name": "Celaeno",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 21,
+      "Destination_Gate_ID": 46,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 29,
+      "Sector_ID": 12,
+      "Name": "Celaeno",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 34,
+      "Destination_Gate_ID": 78,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 30,
+      "Sector_ID": 13,
+      "Name": "Canopus",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 35,
+      "Destination_Gate_ID": 81,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 31,
+      "Sector_ID": 14,
+      "Name": "Capella",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 2,
+      "Destination_Gate_ID": 9,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 32,
+      "Sector_ID": 14,
+      "Name": "Capella",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 3,
+      "Destination_Gate_ID": 10,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 33,
+      "Sector_ID": 14,
+      "Name": "Capella",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 8,
+      "Destination_Gate_ID": 18,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 34,
+      "Sector_ID": 15,
+      "Name": "Castor",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 11,
+      "Destination_Gate_ID": 24,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 35,
+      "Sector_ID": 15,
+      "Name": "Castor",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 24,
+      "Destination_Gate_ID": 52,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 36,
+      "Sector_ID": 15,
+      "Name": "Castor",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 28,
+      "Destination_Gate_ID": 62,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 37,
+      "Sector_ID": 16,
+      "Name": "Deneb",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 35,
+      "Destination_Gate_ID": 82,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 38,
+      "Sector_ID": 17,
+      "Name": "Denebola",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 6,
+      "Destination_Gate_ID": 14,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 39,
+      "Sector_ID": 17,
+      "Name": "Denebola",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 28,
+      "Destination_Gate_ID": 63,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 40,
+      "Sector_ID": 17,
+      "Name": "Denebola",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 32,
+      "Destination_Gate_ID": 75,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 41,
+      "Sector_ID": 18,
+      "Name": "Electra",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 12,
+      "Destination_Gate_ID": 27,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 42,
+      "Sector_ID": 18,
+      "Name": "Electra",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 22,
+      "Destination_Gate_ID": 49,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 43,
+      "Sector_ID": 19,
+      "Name": "Fomalhaut",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 4,
+      "Destination_Gate_ID": 11,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 44,
+      "Sector_ID": 20,
+      "Name": "Luyten's Star",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 25,
+      "Destination_Gate_ID": 55,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 45,
+      "Sector_ID": 21,
+      "Name": "Maia",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 1,
+      "Destination_Gate_ID": 3,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 46,
+      "Sector_ID": 21,
+      "Name": "Maia",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 12,
+      "Destination_Gate_ID": 28,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 47,
+      "Sector_ID": 21,
+      "Name": "Maia",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 33,
+      "Destination_Gate_ID": 76,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 48,
+      "Sector_ID": 22,
+      "Name": "Merope",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 1,
+      "Destination_Gate_ID": 4,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 49,
+      "Sector_ID": 22,
+      "Name": "Merope",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 18,
+      "Destination_Gate_ID": 42,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 50,
+      "Sector_ID": 23,
+      "Name": "Pleione",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 1,
+      "Destination_Gate_ID": 5,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 51,
+      "Sector_ID": 24,
+      "Name": "Pollux",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 11,
+      "Destination_Gate_ID": 25,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 52,
+      "Sector_ID": 24,
+      "Name": "Pollux",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 15,
+      "Destination_Gate_ID": 35,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 53,
+      "Sector_ID": 24,
+      "Name": "Pollux",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 28,
+      "Destination_Gate_ID": 64,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 54,
+      "Sector_ID": 25,
+      "Name": "Procyon",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 11,
+      "Destination_Gate_ID": 26,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 55,
+      "Sector_ID": 25,
+      "Name": "Procyon",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 20,
+      "Destination_Gate_ID": 44,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 56,
+      "Sector_ID": 25,
+      "Name": "Procyon",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 30,
+      "Destination_Gate_ID": 67,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 57,
+      "Sector_ID": 25,
+      "Name": "Procyon",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 31,
+      "Destination_Gate_ID": 70,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 58,
+      "Sector_ID": 25,
+      "Name": "Procyon",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 36,
+      "Destination_Gate_ID": 84,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 59,
+      "Sector_ID": 26,
+      "Name": "Proxima Centauri",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 31,
+      "Destination_Gate_ID": 71,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 60,
+      "Sector_ID": 27,
+      "Name": "Ras Alhague",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 6,
+      "Destination_Gate_ID": 15,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 61,
+      "Sector_ID": 27,
+      "Name": "Ras Alhague",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 35,
+      "Destination_Gate_ID": 83,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 62,
+      "Sector_ID": 28,
+      "Name": "Regulus",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 15,
+      "Destination_Gate_ID": 36,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 63,
+      "Sector_ID": 28,
+      "Name": "Regulus",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 17,
+      "Destination_Gate_ID": 39,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 64,
+      "Sector_ID": 28,
+      "Name": "Regulus",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 24,
+      "Destination_Gate_ID": 53,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 65,
+      "Sector_ID": 29,
+      "Name": "Rigel",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 10,
+      "Destination_Gate_ID": 21,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 66,
+      "Sector_ID": 29,
+      "Name": "Rigel",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 31,
+      "Destination_Gate_ID": 72,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 67,
+      "Sector_ID": 30,
+      "Name": "Sirius",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 25,
+      "Destination_Gate_ID": 56,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 68,
+      "Sector_ID": 30,
+      "Name": "Sirius",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 31,
+      "Destination_Gate_ID": 73,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 69,
+      "Sector_ID": 31,
+      "Name": "Sol",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 9,
+      "Destination_Gate_ID": 19,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 70,
+      "Sector_ID": 31,
+      "Name": "Sol",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 25,
+      "Destination_Gate_ID": 57,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 71,
+      "Sector_ID": 31,
+      "Name": "Sol",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 26,
+      "Destination_Gate_ID": 59,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 72,
+      "Sector_ID": 31,
+      "Name": "Sol",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 29,
+      "Destination_Gate_ID": 66,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 73,
+      "Sector_ID": 31,
+      "Name": "Sol",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 30,
+      "Destination_Gate_ID": 68,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 74,
+      "Sector_ID": 32,
+      "Name": "Spica",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 5,
+      "Destination_Gate_ID": 13,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 75,
+      "Sector_ID": 32,
+      "Name": "Spica",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 17,
+      "Destination_Gate_ID": 40,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 76,
+      "Sector_ID": 33,
+      "Name": "Sterope",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 21,
+      "Destination_Gate_ID": 47,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 77,
+      "Sector_ID": 33,
+      "Name": "Sterope",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 34,
+      "Destination_Gate_ID": 79,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 78,
+      "Sector_ID": 34,
+      "Name": "Taygeta",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 12,
+      "Destination_Gate_ID": 29,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 79,
+      "Sector_ID": 34,
+      "Name": "Taygeta",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 33,
+      "Destination_Gate_ID": 77,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 80,
+      "Sector_ID": 35,
+      "Name": "Vega",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 4,
+      "Destination_Gate_ID": 12,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 81,
+      "Sector_ID": 35,
+      "Name": "Vega",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 13,
+      "Destination_Gate_ID": 30,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 82,
+      "Sector_ID": 35,
+      "Name": "Vega",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 16,
+      "Destination_Gate_ID": 37,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 83,
+      "Sector_ID": 35,
+      "Name": "Vega",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 27,
+      "Destination_Gate_ID": 61,
+      "Is_Dirty": true
+    },
+    {
+      "ID": 84,
+      "Sector_ID": 36,
+      "Name": "Wolf 359",
+      "Description": "",
+      "Base_Toll": 500,
+      "Faction_ID": 1,
+      "Destination_Sector_ID": 25,
+      "Destination_Gate_ID": 58,
+      "Is_Dirty": true
+    }
+  ],
+  "MetaDataToEntity": [
+    {
+      "ID": 65,
+      "Entity_Type": 2,
+      "MetaData_Key": "MaxCapacity",
+      "Value": "22680"
+    },
+    {
+      "ID": 66,
+      "Entity_Type": 2,
+      "MetaData_Key": "MaxCapacity",
+      "Value": "45360"
+    },
+    {
+      "ID": 67,
+      "Entity_Type": 2,
+      "MetaData_Key": "MaxCapacity",
+      "Value": "65040"
+    },
+    {
+      "ID": 68,
+      "Entity_Type": 2,
+      "MetaData_Key": "MaxCapacity",
+      "Value": "90720"
+    },
+    {
+      "ID": 69,
+      "Entity_Type": 2,
+      "MetaData_Key": "MaxCapacity",
+      "Value": "113400"
+    }
+  ]
+}

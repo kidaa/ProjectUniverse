@@ -463,6 +463,97 @@ MonoBehaviour:
   shadowOffset: {x: 1, y: -1}
   autoSize: 0
   clickWhenSpacePressed: 1
+--- !u!1 &114880734
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 114880738}
+  - 33: {fileID: 114880737}
+  - 65: {fileID: 114880736}
+  - 23: {fileID: 114880735}
+  - 114: {fileID: 114880739}
+  m_Layer: 0
+  m_Name: FakeJumpgate
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!23 &114880735
+Renderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 114880734}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_LightmapIndex: 255
+  m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
+  m_Materials:
+  - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 0
+  m_LightProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+--- !u!65 &114880736
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 114880734}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!33 &114880737
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 114880734}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &114880738
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 114880734}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 98.7904892, z: 43.2873421}
+  m_LocalScale: {x: .200000003, y: 10, z: 10}
+  m_Children:
+  - {fileID: 894753030}
+  m_Father: {fileID: 0}
+  m_RootOrder: 7
+--- !u!114 &114880739
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 114880734}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd70edcae932f874c8c24d2aa4358c0c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  jumpgateID: 1
+  sectorID: 0
+  name: 
+  description: 
+  base_toll: 0
+  faction_id: 0
+  destination_sector_id: 0
+  destination_sector: 
+  destination_gate_id: 0
 --- !u!1 &118321095
 GameObject:
   m_ObjectHideFlags: 0
@@ -871,6 +962,46 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 5
+--- !u!1 &461524314
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 100000, guid: 7a6f8b73d09c1154e88b09a6483d7d8c, type: 2}
+  m_PrefabInternal: {fileID: 2142941032}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 461524316}
+  - 114: {fileID: 461524315}
+  m_Layer: 0
+  m_Name: SceneController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &461524315
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 11400000, guid: 7a6f8b73d09c1154e88b09a6483d7d8c,
+    type: 2}
+  m_PrefabInternal: {fileID: 2142941032}
+  m_GameObject: {fileID: 461524314}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69599f45d419cc3488e33ae091583fd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &461524316
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 400000, guid: 7a6f8b73d09c1154e88b09a6483d7d8c, type: 2}
+  m_PrefabInternal: {fileID: 2142941032}
+  m_GameObject: {fileID: 461524314}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 6
 --- !u!1 &526965436
 GameObject:
   m_ObjectHideFlags: 0
@@ -940,7 +1071,7 @@ Transform:
   m_PrefabInternal: {fileID: 634647762}
   m_GameObject: {fileID: 526965436}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: .00130208337, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1022068861}
@@ -1002,7 +1133,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dfba13070f55c1849b846d7c73a27541, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: .00130208337
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: dfba13070f55c1849b846d7c73a27541, type: 2}
       propertyPath: atlas
@@ -1379,6 +1510,75 @@ MonoBehaviour:
   shadowOffset: {x: 1, y: -1}
   autoSize: 0
   clickWhenSpacePressed: 1
+--- !u!1 &894753029
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 894753030}
+  - 33: {fileID: 894753033}
+  - 135: {fileID: 894753032}
+  - 23: {fileID: 894753031}
+  m_Layer: 0
+  m_Name: JumpgateTrigger
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &894753030
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 894753029}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 5, y: 5, z: 5}
+  m_Children: []
+  m_Father: {fileID: 114880738}
+  m_RootOrder: 0
+--- !u!23 &894753031
+Renderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 894753029}
+  m_Enabled: 0
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_LightmapIndex: 255
+  m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
+  m_Materials:
+  - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 0
+  m_LightProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+--- !u!135 &894753032
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 894753029}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: .5
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!33 &894753033
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 894753029}
+  m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1 &942528005
 GameObject:
   m_ObjectHideFlags: 0
@@ -1610,7 +1810,7 @@ MonoBehaviour:
   guides: []
 --- !u!65 &1022068865
 BoxCollider:
-  m_ObjectHideFlags: 2
+  m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 6500000, guid: dfba13070f55c1849b846d7c73a27541,
     type: 2}
   m_PrefabInternal: {fileID: 634647762}
@@ -1742,7 +1942,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1552988470}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -.03125, y: .03125, z: 0}
+  m_LocalPosition: {x: -1.27083588, y: -.895828247, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1022068861}
@@ -1770,7 +1970,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d50ece95d8fc77c4f98cff1aba1da9fa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorStyle: 448
+  anchorStyle: 256
   isEnabled: 1
   isVisible: 0
   isInteractive: 1
@@ -1791,12 +1991,12 @@ MonoBehaviour:
   canFocus: 0
   autoFocus: 0
   layout:
-    anchorStyle: 448
+    anchorStyle: 256
     margins:
-      left: .48828125
-      top: .484375
-      right: .51171875
-      bottom: .515625
+      left: .0234375
+      top: .947916687
+      right: .046875
+      bottom: .979166687
     owner: {fileID: 1552988473}
   renderOrder: 1
   isLocalized: 0
@@ -2082,8 +2282,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 50
-        y: 116
+        x: 54
+        y: 141
         width: 130
         height: 32
       isBreakpoint: 0
@@ -2250,8 +2450,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 412
-        y: 108
+        x: 361
+        y: 114
         width: 100
         height: 32
       isBreakpoint: 0
@@ -2270,13 +2470,17 @@ MonoBehaviour:
         actionNames:
         - HutongGames.PlayMaker.Actions.GetMouseButtonUp
         - HutongGames.PlayMaker.Actions.Translate
+        - HutongGames.PlayMaker.Actions.GetProperty
+        - HutongGames.PlayMaker.Actions.SetProperty
         customNames:
         - 
         - 
-        actionEnabled: 0101
-        actionIsOpen: 0101
-        actionStartIndex: 0000000003000000
-        actionHashCodes: 2d8b867b1d4debbb
+        - 
+        - 
+        actionEnabled: 01010101
+        actionIsOpen: 01010101
+        actionStartIndex: 00000000030000000d0000000f000000
+        actionHashCodes: 2d8b867b1d4debbbd23668dcd23668dc
         unityObjectParams: []
         fsmGameObjectParams: []
         fsmOwnerDefaultParams:
@@ -2292,17 +2496,237 @@ MonoBehaviour:
         functionCallParams: []
         fsmTemplateControlParams: []
         fsmEventTargetParams: []
-        fsmPropertyParams: []
+        fsmPropertyParams:
+        - TargetObject:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            typeName: UnityEngine.Object
+            value: {fileID: 2028549667}
+          TargetTypeName: UnityEngine.GameObject
+          PropertyName: transform.position
+          BoolParameter:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: 0
+          FloatParameter:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: 0
+          IntParameter:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: 0
+          GameObjectParameter:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: {fileID: 0}
+          StringParameter:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: 
+          Vector2Parameter:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: {x: 0, y: 0}
+          Vector3Parameter:
+            useVariable: 1
+            name: fsmCurrentPosition
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: {x: 0, y: 0, z: 0}
+          RectParamater:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value:
+              serializedVersion: 2
+              x: 0
+              y: 0
+              width: 0
+              height: 0
+          QuaternionParameter:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: {x: 0, y: 0, z: 0, w: 0}
+          ObjectParameter:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            typeName: UnityEngine.Vector3
+            value: {fileID: 0}
+          MaterialParameter:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            typeName: 
+            value: {fileID: 0}
+          TextureParameter:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            typeName: 
+            value: {fileID: 0}
+          ColorParameter:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: {r: 0, g: 0, b: 0, a: 1}
+          setProperty: 0
+        - TargetObject:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            typeName: UnityEngine.Object
+            value: {fileID: 2028549676}
+          TargetTypeName: PlayerVariables
+          PropertyName: currentPosition
+          BoolParameter:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: 0
+          FloatParameter:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: 0
+          IntParameter:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: 0
+          GameObjectParameter:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: {fileID: 0}
+          StringParameter:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: 
+          Vector2Parameter:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: {x: 0, y: 0}
+          Vector3Parameter:
+            useVariable: 1
+            name: fsmCurrentPosition
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: {x: 0, y: 0, z: 0}
+          RectParamater:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value:
+              serializedVersion: 2
+              x: 0
+              y: 0
+              width: 0
+              height: 0
+          QuaternionParameter:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: {x: 0, y: 0, z: 0, w: 0}
+          ObjectParameter:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            typeName: UnityEngine.Vector3
+            value: {fileID: 0}
+          MaterialParameter:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            typeName: 
+            value: {fileID: 0}
+          TextureParameter:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            typeName: 
+            value: {fileID: 0}
+          ColorParameter:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: {r: 0, g: 0, b: 0, a: 1}
+          setProperty: 1
         layoutOptionParams: []
         fsmStringParams: []
         fsmObjectParams: []
         fsmVarParams: []
-        byteData: 000000004f6e49646c65000100000000000000000000000001000000000100000000010000c842000100000001010001
+        byteData: 000000004f6e49646c65000100000000000000000000000001000000000100000000010000c8420001000000010100010101
         arrayParamSizes: 
         arrayParamTypes: []
         customTypeSizes: 
         customTypeNames: []
-        paramDataType: 070000001700000011000000140000001c0000000f0000000f0000000f0000000700000001000000010000000100000001000000
+        paramDataType: 070000001700000011000000140000001c0000000f0000000f0000000f000000070000000100000001000000010000000100000024000000010000002400000001000000
         paramName:
         - button
         - sendEvent
@@ -2317,15 +2741,19 @@ MonoBehaviour:
         - everyFrame
         - lateUpdate
         - fixedUpdate
-        paramDataPos: 00000000040000000a000000000000000c000000190000001e00000023000000280000002c0000002d0000002e0000002f000000
-        paramByteDataSize: 040000000600000002000000000000000d0000000500000005000000050000000400000001000000010000000100000001000000
+        - targetProperty
+        - everyFrame
+        - targetProperty
+        - everyFrame
+        paramDataPos: 00000000040000000a000000000000000c000000190000001e00000023000000280000002c0000002d0000002e0000002f00000000000000300000000100000031000000
+        paramByteDataSize: 040000000600000002000000000000000d000000050000000500000005000000040000000100000001000000010000000100000000000000010000000000000001000000
     - name: Check Dock
       description: 
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 241
-        y: 199
+        x: 224
+        y: 248
         width: 117
         height: 48
       isBreakpoint: 0
@@ -2408,7 +2836,13 @@ MonoBehaviour:
         value: 0
       stringVariables: []
       vector2Variables: []
-      vector3Variables: []
+      vector3Variables:
+      - useVariable: 1
+        name: fsmCurrentPosition
+        tooltip: 
+        showInInspector: 0
+        networkSync: 0
+        value: {x: 0, y: 0, z: 0}
       colorVariables: []
       rectVariables: []
       quaternionVariables: []
@@ -2638,6 +3072,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isDocked: 0
+  currentPosition: {x: 0, y: 0, z: 0}
+  currentRotation: {x: 0, y: 0, z: 0}
 --- !u!1001 &2083549892
 Prefab:
   m_ObjectHideFlags: 0
@@ -2684,5 +3120,53 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: cb9c9a7580433e3478f3f7ff2117176d, type: 2}
   m_RootGameObject: {fileID: 1377134210}
+  m_IsPrefabParent: 0
+  m_IsExploded: 1
+--- !u!1001 &2142941032
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 7a6f8b73d09c1154e88b09a6483d7d8c, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 7a6f8b73d09c1154e88b09a6483d7d8c, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 7a6f8b73d09c1154e88b09a6483d7d8c, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 7a6f8b73d09c1154e88b09a6483d7d8c, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 7a6f8b73d09c1154e88b09a6483d7d8c, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 7a6f8b73d09c1154e88b09a6483d7d8c, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 7a6f8b73d09c1154e88b09a6483d7d8c, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 7a6f8b73d09c1154e88b09a6483d7d8c, type: 2}
+      propertyPath: m_RootMapOrder
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 7a6f8b73d09c1154e88b09a6483d7d8c, type: 2}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 7a6f8b73d09c1154e88b09a6483d7d8c, type: 2}
+  m_RootGameObject: {fileID: 461524314}
   m_IsPrefabParent: 0
   m_IsExploded: 1

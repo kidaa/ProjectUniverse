@@ -236,8 +236,11 @@ public class NewGameManager : MonoBehaviour
         uim.HideUI(UIManager.UIELEMENTS.LoadingUI);
 
         //Have scene transfer live on SceneController. 
+        GameObject sc = GameObject.Find("SceneController");
+        SceneManager sm = sc.GetComponent<SceneManager>();
+
         //SceneTransfer st = sceneController.GetComponent<SceneTransfer>();
-        //st.ChangeScene("[INITIAL SCENE AFTER NEW GAME]");
+        sm.SwitchScene("Alcyone");      //On new, this would be the initial scene
         Debug.Log("A-OK!");
     }
     

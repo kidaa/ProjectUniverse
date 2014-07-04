@@ -11,6 +11,8 @@ public class PlayerVariables : MonoBehaviour
     #region DECLARATIONS
 
     public bool isDocked = false;
+    public Vector3 currentPosition = Vector3.zero;
+    public Vector3 currentRotation = Vector3.zero;
 
     #endregion
 

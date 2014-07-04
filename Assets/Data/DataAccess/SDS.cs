@@ -98,5 +98,14 @@ using Newtonsoft.Json;
             return foundItem;
         }
 
+        //Individual items from collections
+        public Jumpgate FindJumpgateByID(int ID)
+        {
+            var jg = (from jgs in Jumpgates
+                      where jgs.ID == ID
+                      select jgs).First();
+            return jg;
+        }
+
     }
 

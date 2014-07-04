@@ -6,8 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MainMenu/MainSplash.unity
+    path: Assets/Scenes/MainMenu/MainMenu.unity
   - enabled: 1
-    path: Assets/Scenes/Sector02/Aldebaran.unity
-  - enabled: 1
-    path: Assets/Scenes/Sector01/Alcyone.unity
+    path: Assets/Scenes/Alcyone/Alcyone.unity
